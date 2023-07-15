@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+}
+
+div form{
+  margin-top: 180px;
+  margin-left: 250px;
+  margin-bottom: 550px;
+  margin-right: 250px;
+}
+
+a {
+  margin-right: 60px;
+}
+
+.FloatingLabel {
+  margin-top: 380px;
+}
+
+.form-container {
+  color: black;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 55%;
+}
+
+.main {
+   border-inline: groove;
+   background-color: aquamarine;
+   margin-top: 5px;
+   margin-left: 8%;
+   margin-right: 8%;
+   border-right-color: black;
+   border-left-color: black;
+   border-top-right-radius: 20px;
+   border-bottom-left-radius: 20px;
+   border-bottom-right-radius: 20px;
+   border-top-left-radius: 20px;
+   width: 85%;
+   margin-bottom: 10px;
+}
+
+.header input {
+  border-radius: 8px;
+  background-color: bisque;
+  margin-right: 0px;
+}
+
+.header button {
+  margin-left: 4px;
+  margin-bottom: auto;
+  width: 40px;
+  height: 28px;
+}
+
+.listData button{
+  margin-left: 30px;
+  margin-top: 2px;
+}
+
+.listData {
+  margin-top: 2px;
+  margin-left: -8px;
+}
+
+.container {
+  margin-left: 40px;
+}
+
+.todo-heading {
+  text-align: center;
+}
