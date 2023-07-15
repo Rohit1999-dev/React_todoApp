@@ -1,6 +1,6 @@
 ## Available Scripts
 
-In the project install the packages
+In the project install the packages first before we go for run the server
 
 ### `npm install`
 
